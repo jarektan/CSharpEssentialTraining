@@ -1,0 +1,7 @@
+/Users/jarektan/projects/CSharpEssential/FirstConsoleApp/FirstConsoleApp/obj/Debug/FirstConsoleApp.csprojAssemblyReference.cache
+/Users/jarektan/projects/CSharpEssential/FirstConsoleApp/FirstConsoleApp/obj/Debug/FirstConsoleApp.csproj.CoreCompileInputs.cache
+/Users/jarektan/projects/CSharpEssential/FirstConsoleApp/FirstConsoleApp/bin/Debug/FirstConsoleApp.exe.config
+/Users/jarektan/projects/CSharpEssential/FirstConsoleApp/FirstConsoleApp/bin/Debug/FirstConsoleApp.exe
+/Users/jarektan/projects/CSharpEssential/FirstConsoleApp/FirstConsoleApp/bin/Debug/FirstConsoleApp.pdb
+/Users/jarektan/projects/CSharpEssential/FirstConsoleApp/FirstConsoleApp/obj/Debug/FirstConsoleApp.exe
+/Users/jarektan/projects/CSharpEssential/FirstConsoleApp/FirstConsoleApp/obj/Debug/FirstConsoleApp.pdb
